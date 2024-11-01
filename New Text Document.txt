@@ -1,0 +1,3 @@
+https://hardwaretester.com/gamepad
+https://learn.microsoft.com/en-us/windows/win32/xinput/getting-started-with-xinput#dead-zone
+https://raylibtech.itch.io/rguiicons

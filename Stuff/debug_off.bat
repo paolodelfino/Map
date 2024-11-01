@@ -1,0 +1,3 @@
+bcdedit /debug off
+
+pause
